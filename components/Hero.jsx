@@ -26,7 +26,7 @@ function Hero() {
           </div>
           <p
             className="text-lg mb-16 tracking-wider font-[500] leading-loose font-poppins"
-            style={{ "word-spacing": ".15rem" }}
+            style={{ wordSpacing: ".15rem" }}
           >
             Hi! I&apos;m Venkat sai, an Associtive Product Engineer in Deltax.
           </p>
