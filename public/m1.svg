@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="73a193af-e923-42f4-851c-8655d2c475cf"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="0a1f8e4f-807b-4eb0-8516-e8fd00425f65"  >
+</g>
+<g transform="matrix(1 0 0 1 540 540)"  >
+<g style="opacity: 0.48;" vector-effect="non-scaling-stroke"   >
+		<g transform="matrix(1 0 0 1 0 0)"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-300" y="-100" rx="0" ry="0" width="600" height="200" />
+</g>
+		<g transform="matrix(1 0 0 1 -157.98 -66.27)" style=""  >
+		<text xml:space="preserve" font-family="Courier, monospace" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(211,211,211); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-132.02" y="6.28" >// Importing Happiness</tspan></text>
+</g>
+		<g transform="matrix(1 0 0 1 -253.99 -26.27)" style=""  >
+		<text xml:space="preserve" font-family="Courier, monospace" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(196,101,120); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-36.01" y="6.28" >import</tspan></text>
+</g>
+		<g transform="matrix(1 0 0 1 -170 -26.27)" style=""  >
+		<text xml:space="preserve" font-family="Courier, monospace" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-30" y="6.28" >happy</tspan></text>
+</g>
+		<g transform="matrix(1 0 0 1 -96 -26.27)" style=""  >
+		<text xml:space="preserve" font-family="Courier, monospace" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(196,101,120); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24" y="6.28" >from</tspan></text>
+</g>
+		<g transform="matrix(1 0 0 1 -7.99 -26.27)" style=""  >
+		<text xml:space="preserve" font-family="Courier, monospace" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(204,142,105); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-42.01" y="6.28" >passion</tspan></text>
+</g>
+		<g transform="matrix(1 0 0 1 -157.98 13.73)" style=""  >
+		<text xml:space="preserve" font-family="Courier, monospace" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(211,211,211); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-132.02" y="6.28" >// Importing Enjoyment</tspan></text>
+</g>
+		<g transform="matrix(1 0 0 1 -253.99 53.73)" style=""  >
+		<text xml:space="preserve" font-family="Courier, monospace" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(196,101,120); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-36.01" y="6.28" >import</tspan></text>
+</g>
+		<g transform="matrix(1 0 0 1 -170 53.73)" style=""  >
+		<text xml:space="preserve" font-family="Courier, monospace" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-30" y="6.28" >enjoy</tspan></text>
+</g>
+		<g transform="matrix(1 0 0 1 -96 53.73)" style=""  >
+		<text xml:space="preserve" font-family="Courier, monospace" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(196,101,120); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-24" y="6.28" >from</tspan></text>
+</g>
+		<g transform="matrix(1 0 0 1 -7.99 53.73)" style=""  >
+		<text xml:space="preserve" font-family="Courier, monospace" font-size="20" font-style="normal" font-weight="normal" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(204,142,105); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-42.01" y="6.28" >passion</tspan></text>
+</g>
+</g>
+</g>
+</svg>
