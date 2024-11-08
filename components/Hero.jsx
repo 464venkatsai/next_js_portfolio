@@ -28,7 +28,7 @@ function Hero() {
             className="text-lg mb-16 tracking-wider font-[500] leading-loose font-poppins"
             style={{ "word-spacing": ".15rem" }}
           >
-            Hi! I'm Venkat sai, an Associtive Product Engineer in Deltax.
+            Hi! I&apos;m Venkat sai, an Associtive Product Engineer in Deltax.
           </p>
           <MagicButton
             title="Show My Work"
