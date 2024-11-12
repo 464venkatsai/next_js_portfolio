@@ -12,7 +12,7 @@ export const navItems = [
       description: "",
       className: "row-span-8 col-span-7",
       imgClassName: "w-full h-full",
-      titleClassName: "relative w-[75%] h-full text-4xl flex items-end mb-[2rem]",
+      titleClassName: "relative w-[75%] h-full text-3xl flex items-end mb-[2rem]",
       img: "/laptop.jpeg",
       spareImg: "",
       spareImgClassName : ""
@@ -24,7 +24,7 @@ export const navItems = [
       className: "row-span-4 col-span-5",
       imgClassName: "",
       titleClassName: "justify-start",
-      img: "",
+      img: "/world.jpg",
       spareImg: "",
       spareImgClassName : ""
     },
@@ -35,7 +35,7 @@ export const navItems = [
       className: "row-span-4 col-span-5 flex flex-col justify-center",
       imgClassName: "",
       titleClassName: "z-10 text-[1.75rem]",
-      img: "",
+      img: "/grid.svg",
       spareImg: "",
       spareImgClassName : ""
     },
@@ -45,7 +45,7 @@ export const navItems = [
       description: "",
       className: "row-span-3 col-span-4",
       imgClassName: "",
-      titleClassName: "justify-start",
+      titleClassName: "text-xl",
       img: "/grid.svg",
       spareImg: "/b4.svg",
       spareImgClassName : "absolute bottom-8 right-5 w-[90%]"
@@ -56,19 +56,19 @@ export const navItems = [
       title: "Currently building Online Banking Web Application",
       description: "The Inside Scoop",
       className: "row-span-6 col-span-8",
-      imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
+      imgClassName: "",
       titleClassName: "w-[55%] text-3xl",
       img: "/grid.svg",
-      spareImg: "/hello.svg",
+      spareImg: "/code.svg",
       spareImgClassName : "h-[67%] absolute bottom-[18%] right-[5%] rounded-[5px]"
     },
     {
       id: 6,
       title: "Do you want to start a project together?",
       description: "",
-      className: "row-span-3 col-span-4",
+      className: "row-span-3 col-span-4 flex justify-center",
       imgClassName: "",
-      titleClassName: "justify-center md:max-w-full max-w-60 text-center",
+      titleClassName: "text-xl",
       img: "",
       spareImg: "",
       spareImgClassName : ""
@@ -78,35 +78,27 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "3D Solar System Planets to Explore",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+      title: "Face Recogination System",
+      des: "Secure access and personalize experiences with advanced facial recognition technology for seamless authentication.",
       img: "/p1.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://github.com/adrianhajdin?tab=repositories",
+      link: "https://github.com/464venkatsai/face_recognition_using_python",
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+      title: "Gesture Recogination System",
+      des: "Revolutionize interactions with real-time hand gesture recognition for enhanced control and accessibility",
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/zoom-clone",
+      link: "https://github.com/464venkatsai/gesture_recogination_and_keyboard_intergration",
     },
     {
       id: 3,
-      title: "AI Image SaaS - Canva Application",
+      title: "Expenses Tracker Application",
       des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
       img: "/p3.svg",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/ai_saas_app",
-    },
-    {
-      id: 4,
-      title: "Animated Apple Iphone 3D Website",
-      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-      img: "/p4.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://github.com/adrianhajdin/iphone",
+      link: "https://github.com/464venkatsai/ExpenesesTrackerApp",
     },
   ];
   
@@ -114,32 +106,26 @@ export const navItems = [
     {
       quote:
         "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      name: "Yogeswarvenkatsai",
+      title: "Web Developer",
     },
     {
       quote:
         "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      name: "venkat sai",
+      title: "Machine learning Engineer",
     },
     {
       quote:
         "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      name: "yogeswar",
+      title: "Data Scientist",
     },
     {
       quote:
         "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      name: "Eswar",
+      title: "Data Analyst",
     },
   ];
   
@@ -179,28 +165,28 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
+      title: "Frontend Engineer",
       desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Mobile App Dev - JSM Tech",
+      title: "Android Development",
       desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-      className: "md:col-span-2", // change to md:col-span-2
+      className: "md:col-span-2", 
       thumbnail: "/exp2.svg",
     },
     {
       id: 3,
-      title: "Freelance App Dev Project",
+      title: "Data Science",
       desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-      className: "md:col-span-2", // change to md:col-span-2
+      className: "md:col-span-2", 
       thumbnail: "/exp3.svg",
     },
     {
       id: 4,
-      title: "Lead Frontend Developer",
+      title: "Machine Learning",
       desc: "Developed and maintained user-facing features using modern frontend technologies.",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",

@@ -2,9 +2,9 @@ import React from "react";
 
 function MagicButton({ title, className, icon, postion, handleClick }) {
   return (
-    <button
+    <button onClick={handleClick}
       className={
-        "relative inline-flex h-12 rounded-[10px] overflow-hidden p-[1px]" +
+        "relative inline-flex h-12 rounded-[10px] overflow-hidden p-[1.5px]" +
         `${className ? className : ""}`
       }
     >

@@ -1,0 +1,38 @@
+<svg width="350" height="220" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Shadow rectangle to mimic box-shadow -->
+  <rect x="20" y="8" width="342" height="204" 
+        fill="rgba(0,0,0,0)" 
+        rx="10" ry="10" />
+
+  <!-- Background rectangle with semi-transparent fill and border -->
+  <rect x="20" y="" width="350" height="200" 
+        fill="rgba(255, 255, 255, 0.1)" 
+        stroke="rgba(255, 255, 255, 0.1)" 
+        stroke-width="1" 
+        rx="10" ry="10" />
+
+  <!-- Text resembling code with different colors for keywords -->
+  <text x="55" y="30" font-family="inter,sans-serif" font-size="18" fill="grey">// Importing Happiness</text>
+  
+  <!-- Line 1: Importing Happiness -->
+  <text x="55" y="60" font-family="inter,sans-serif" font-size="18" fill="#c46578">import</text>
+  <text x="115" y="60" font-family="inter,sans-serif" font-size="18" fill="#FFFFFF">happy</text>
+  <text x="175" y="60" font-family="inter,sans-serif" font-size="18" fill="#c46578">from</text>
+  <text x="220" y="60" font-family="inter,sans-serif" font-size="18" fill="#cc8e69">passion</text>
+
+  <!-- Line 2: Importing Enjoyment -->
+  <text x="55" y="90" font-family="inter,sans-serif" font-size="18" fill="grey">// Importing Enjoyment</text>
+  <text x="55" y="120" font-family="inter,sans-serif" font-size="18" fill="#c46578">import</text>
+  <text x="115" y="120" font-family="inter,sans-serif" font-size="18" fill="#FFFFFF">enjoy</text>
+  <text x="170" y="120" font-family="inter,sans-serif" font-size="18" fill="#c46578">from</text>
+  <text x="215" y="120" font-family="inter,sans-serif" font-size="18" fill="#cc8e69">passion</text>
+
+  <!-- Line 3: Welcoming Visitors -->
+  <text x="55" y="150" font-family="inter,sans-serif" font-size="18" fill="grey">// Welcoming Visitors</text>
+  <text x="55" y="180" font-family="inter,sans-serif" font-size="18" fill="#c46578">print</text>
+  <text x="93" y="180" font-family="inter,sans-serif" font-size="18" fill="#FFFFFF">(</text>
+  <text x="100" y="180" font-family="inter,sans-serif" font-size="18" fill="rgb(185, 243, 61)">"Hello Guys I'm Venkat sai"</text>
+  <text x="318" y="180" font-family="inter,sans-serif" font-size="18" fill="#FFFFFF">)</text>
+
+</svg>
