@@ -4,7 +4,7 @@ import { testimonials } from './data'
 
 function Developers() {
   return (
-    <div className='py-10 mb-5 flex flex-col items-center justify-center'>
+    <div className='py-10 mb-5 flex flex-col items-center justify-center' id='testimonials'>
       <div className='my-10'>
         <h1 className='text-4xl font-inter font-bold'>
           My <span className='text-purple'> Co-Developers</span> and <span className='text-purple'>Collaborators</span>
