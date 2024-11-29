@@ -36,7 +36,7 @@ export const TextGenerateEffect = ({
                 idx === 4 || idx === 6
                   ? "text-purple"
                   : "dark:text-white text-black"
-              } opacity-0 font-nunito lg:text-[4rem]`}
+              } opacity-0 font-nunito lg:text-[4rem] md:text-[2rem]`}
               style={{
                 filter: filter ? "blur(10px)" : "none",
               }}

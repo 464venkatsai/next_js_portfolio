@@ -7,7 +7,7 @@ function Experience() {
     <div className='w-full h-max relative'>
       <img src="/grid.svg" alt="grid" className='w-full h-full absolute opacity-[.5] right-0 object-fill' />
         <h1 className=' my-10 text-center font-inter font-bold text-4xl'>My <span className='text-purple'>Technical Skills</span></h1>
-        <div className='grid place-items-center grid-cols-2 p-10 gap-y-10'>
+        <div className='grid place-items-center lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 xs:grid-cols-1 p-10 gap-y-10'>
             {workExperience.map((card)=>{
                 return <div key={card.id}>
                   <Button borderRadius='1.7rem' duration={Math.floor(Math.random()*1000)+3000} className="p-10 w-[35vw]">

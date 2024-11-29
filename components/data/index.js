@@ -197,14 +197,17 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      link:"https://github.com/464venkatsai"
     },
     {
       id: 2,
-      img: "/twit.svg",
+      img: "/insta.svg",
+      link:"https://instagram.com/464venkatsai"
     },
     {
       id: 3,
-      img: "/link.svg",
+      img: "/linkedin.svg",
+      link:"https://www.linkedin.com/in/yogeswar-venkatasai-726275235/"
     },
   ];
 

@@ -35,9 +35,12 @@ export default {
       padding: "2rem",
       screens: {
         "2xl": "1400px",
-      },
+      }
     },
     extend: {
+      screens: {
+        xs: { max: '639px' }, // Anything below `sm` (640px)
+      },
       colors: {
         black: {
           DEFAULT: "#000",

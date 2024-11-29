@@ -3,6 +3,7 @@ import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/TextGenerateEffect";
 import MagicButton from "./ui/MagicButton";
 import { BiRightArrowAlt } from "react-icons/bi";
+import Link from "next/link";
 
 function Hero() {
   return (
@@ -22,19 +23,21 @@ function Hero() {
         <div className="absolute pointer-events-none inset-0 flex items-center justify-center dark:bg-black-100 bg-white [mask-image:radial-gradient(ellipse_at_center,transparent_20%,black)]"></div>
         <div className="flex flex-col items-center px-10">
           <div className="font-bold text-center mx-[10rem] text-xl">
-            <TextGenerateEffect words="Shaping Our Future Through Passion and Precision" />
+            <TextGenerateEffect words="Shaping The Future Through Passion and Precision" />
           </div>
           <p
-            className="text-lg mb-16 tracking-wider font-[500] leading-loose font-poppins"
+            className="xl:text-2xl lg:text-lg md:text-base sm:text-sm xs:text-xs lg:mb-16 md:mb-8 sm:mb-8 xs:mb-8 lg:tracking-wider lg:font-[500] lg:leading-loose lg:font-poppins md:"
             style={{ wordSpacing: ".15rem" }}
           >
             Hi! I&apos;m Venkat sai, an Associtive Product Engineer in Deltax.
           </p>
+          <Link href={"/#projects"}>
           <MagicButton
             title="Show My Work"
             icon={<BiRightArrowAlt size={20} />}
             postion="right"
           />
+          </Link>
         </div>
       </div>
     </div>
